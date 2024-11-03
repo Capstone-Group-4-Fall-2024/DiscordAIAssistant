@@ -1,5 +1,5 @@
 # Change to the project directory
-Set-Location "C:\Users\colin\Documents\DiscordAIAssistant"
+Set-Location "C:\Users\colin\Documents\DiscordAIAssistant" # Remember to change this directory to your local repo location!!
 
 # Stop and remove any orphaned or running containers
 Write-Host "Stopping and removing existing containers..." -ForegroundColor Yellow
